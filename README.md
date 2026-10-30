@@ -17,7 +17,6 @@ I build complete, polished games from scratch — player systems, AI, UI, partic
 | **[Rocket Glide](https://inboxrohanm.itch.io)** | Tap-to-boost precision control, two-stage difficulty curve, particle + audio feedback | Unity, C# |
 | **[Royal Rush](https://inboxrohanm.itch.io)** | Dynamic-pace endless runner, checkpoint timer system (+5s per checkpoint), collectibles | Unity, C# |
 
-*(Add a GIF or screenshot above each project's repo README — recruiters skim visuals before text.)*
 
 ---
 
